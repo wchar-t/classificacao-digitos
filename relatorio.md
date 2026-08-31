@@ -1,5 +1,7 @@
 # Relatório — Reconhecedor de dígitos MNIST no navegador
 
+## Alunos: João Pedro Pereira e Taylanne Castelo
+
 ## 1. Modelo
 
 ### Ambiente
